@@ -8,8 +8,8 @@ This roadmap is designed for software engineers, web developers, and freshers wh
 
 | 🔍 Topic              | Subtopics                                                                 | ✅ Best Resources                                                                 |
 |----------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **AI vs ML vs DL**    | Definitions, real-world examples, use-cases                               | YouTube: [Krish Naik]([https://www.youtube.com/@KrishNaik](https://youtu.be/X7Zd4VyUgL0?si=rwosLGa2Qksx0v70))                        |
-| **Types of ML**       | Supervised, Unsupervised, Reinforcement Learning                          | Google ML Crash Course                                                           |
+| **AI vs ML vs DL**    | Definitions, real-world examples, use-cases                               | YouTube: [Krish Naik](https://youtu.be/X7Zd4VyUgL0?si=rwosLGa2Qksx0v70)                        |
+| **Types of ML**       | Supervised, Unsupervised, Reinforcement Learning                          | [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)                                                           |
 | **ML Lifecycle**      | Problem → Data → Features → Model → Evaluate → Deploy                     | Book: *Hands-On ML with Scikit-Learn & TensorFlow* – Aurélien Géron             |
 | **Data Preprocessing**| Cleaning, normalization, missing values, encoding                         | YouTube: Codebasics "Data Preprocessing in ML"                                  |
 | **Feature Engineering**| Feature selection, scaling, PCA (basics)                                 | Analytics Vidhya / Towards Data Science                                          |
