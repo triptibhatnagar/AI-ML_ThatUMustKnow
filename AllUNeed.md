@@ -1,4 +1,4 @@
-🧠 PART 1: Core AI/ML Theory You MUST Know
+🧠 #PART 1: Core AI/ML Theory You MUST Know
 Topic	Subtopics	Best Resources
 1. AI vs ML vs DL	Definitions, real-world examples, use-cases	YouTube: Krish Naik – "AI vs ML vs DL"
 2. Types of ML	Supervised, Unsupervised, Reinforcement Learning	Google ML Crash Course (Basics)
